@@ -1,0 +1,10 @@
+#add all the required libraries here
+#specify the version of the libraries using this "library==version" ex "numpy==1.18.1"
+numpy
+pandas
+streamlit==1.33.0
+opencv-python
+ultralytics
+streamlit_navigation_bar
+st-theme
+lapx
